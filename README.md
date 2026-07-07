@@ -50,7 +50,7 @@ Sentiment-Analysis-Movie-Reviews/
 
 1. Clone the repository
 
-git clone https://github.com/your-username/Sentiment-Analysis-Movie-Reviews.git
+git clone https://github.com/sravyadande/Sentiment-Analysis-on-Movie-Reviews.git
 
 2. Navigate to the project directory
 
